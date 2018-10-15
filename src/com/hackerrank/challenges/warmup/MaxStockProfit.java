@@ -1,3 +1,5 @@
+package com.hackerrank.challenges.warmup;
+
 import java.util.ArrayList;
 
 public class MaxStockProfit {

@@ -1,3 +1,5 @@
+package com.hackerrank.challenges.warmup;
+
 import java.util.Arrays;
 
 public class MergeSort {

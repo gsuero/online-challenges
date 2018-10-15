@@ -1,3 +1,5 @@
+package com.hackerrank.challenges.warmup;
+
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.text.DecimalFormat;

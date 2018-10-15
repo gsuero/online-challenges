@@ -3,4 +3,4 @@ bin/**
 .idea/**
 .project
 .classpath
-.settings
+.settings/**
