@@ -1,5 +1,6 @@
 build/**
 bin/**
+target/**
 .idea/**
 .project
 .classpath
